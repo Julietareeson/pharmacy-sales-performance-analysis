@@ -74,3 +74,9 @@ The analysis focused on:
 - July recorded the highest monthly revenue, while February recorded the lowest.
 - Several products generated high sales but had relatively low profit margins, with margins around 21%–25%. These products may require pricing, cost, or margin optimization.
 - Pharmacy profitability varied considerably across branches, indicating that lower-performing locations may require further operational review.
+
+  ## Recommendations
+- Review promotional strategies to determine which campaigns genuinely improve profitability.
+- Investigate the causes of declining monthly revenue and develop strategies to improve weaker periods.
+- Review high-sales, low-margin products to improve pricing, costs, or product mix.
+- Identify best-performing pharmacy practices and apply them to underperforming branches.

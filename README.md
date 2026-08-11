@@ -60,3 +60,13 @@ The analysis focused on:
 - Revenue and profit by product
 - Revenue and profit by promotional activity
 - Monthly revenue and profit performance
+
+## Key Insights
+
+- The pharmacy chain generated 8.63M in total revenue and 2.42M in total profit, with an overall profit margin of 28%.
+- Vienna HealthPoint #074 was the highest-performing pharmacy by revenue and profit.
+- ZenHealth Herbal Tea Active was the top-performing product by revenue and profit.
+- Promotional sales generated significantly lower revenue and profit than non-promotional sales, suggesting that the promotional campaigns did not produce a strong overall financial impact.
+- July recorded the highest monthly revenue, while February recorded the lowest.
+- Several products generated high sales but had relatively low profit margins, with margins around 21%–25%. These products may require pricing, cost, or margin optimization.
+- Pharmacy profitability varied considerably across branches, indicating that lower-performing locations may require further operational review.

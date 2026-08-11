@@ -1,2 +1,3 @@
-# pharmacy-sales-performance-analysis
-Power BI project analyzing pharmacy sales, profit, and operational performance.
+# Pharmacy Sales & Profit Performance Analysis
+
+> An interactive Power BI dashboard analyzing pharmacy sales, revenue, profitability, product performance, promotional activities, and pharmacy branch performance.
